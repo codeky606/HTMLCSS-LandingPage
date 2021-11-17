@@ -127,8 +127,7 @@ section {
     width: 575px;
     margin-top: 10px;
 }
-
-.nav-list>li>a {
+a.li.nav-list {
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
